@@ -1,0 +1,1 @@
+docker run --rm -it zx-docker:latest https://medv.io/game-of-life.mjs
